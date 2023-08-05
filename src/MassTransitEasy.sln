@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MassTransitPublisher.Api", "MassTransitPublisher.Api\MassTransitPublisher.Api.csproj", "{CA710A38-0265-4185-A69D-6AE68E90F2BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MassTransitPublisher.Test", "MassTransitPublisher.Test\MassTransitPublisher.Test.csproj", "{4C66907C-D3FA-4D01-936A-BED0A478167B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA710A38-0265-4185-A69D-6AE68E90F2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA710A38-0265-4185-A69D-6AE68E90F2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA710A38-0265-4185-A69D-6AE68E90F2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA710A38-0265-4185-A69D-6AE68E90F2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C66907C-D3FA-4D01-936A-BED0A478167B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C66907C-D3FA-4D01-936A-BED0A478167B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C66907C-D3FA-4D01-936A-BED0A478167B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C66907C-D3FA-4D01-936A-BED0A478167B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF52F628-ABD3-4BFD-94C4-9166C9735270}
+	EndGlobalSection
+EndGlobal
